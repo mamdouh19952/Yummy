@@ -1,0 +1,34 @@
+مساء الفل يا أبطال
+دا الامتحان بتاعنا 
+https://routeegypt.com/Yummy/
+هنعمل زي الويبسايت ده بالظبط
+
+عندنا side nav menu أول ما بنفتحها فيه links بتطلع ب animation كده وهي عباره عن search, categories, area, ingredients, contact us 
+
+اول حاجه وهي ال search بيظهرلي two inputs 
+الأول بيعمل سيرش بال meal name
+التاني بيعمل سيرش بال meal first letter 
+
+تاني حاجه ال categories ودا بيعرضلي ال meals categories ولو ضغط على اي category على طول بيجيبلي ال meals الموجوده ف ال category دي
+
+تالت حاجه ال area وهنا بيجيبلي ال meals area وبردو لو ضغط على اي area هيجيبلي ال meals الموجوده ف البلد دي
+
+رابع حاجه ال ingredients وهنا بيظهرلي ال main ingredient بتاعه كل meal ولو ضغط على اي ingredient هيجيبلي ال meals اللي اتعملت بال ingredient دي
+
+اخر حاجه وهي contact us ودي بتظهرلي inputs ل sign up form 
+استخدمنا فيها ال regex وال submit button هيفضل disabled لحد ما ال regex اللي معموله على كل ال inputs ترجع true ساعتها ال button هيبقى enabled 
+
+لو فتحت اي حاجه من اللي فوق دول هيعرضلي ال meals وهنا احنا بنعرض 20 meal بس من ال response بتاعنا
+
+لو فتحت اي meal بيعرضلي ال details بتاعتها
+بيعرضلي صوره ال meal وال meal name, instructions, area, category, recipes, tags, meal source and meal in YouTube 
+
+آخر حاجه وهي اني اول ما بفتح ال website بيكون ظاهرلي بعض ال meals وهنا استخدمنا ال search api بس خلينا ال name اللي موجود ف ال api فاضي 
+
+دي ال API اللي استخدمناها وهي سهله جدا ومش محتاجه API key خالص
+https://www.themealdb.com/api.php
+
+بعد ما نخلص الامتحان هنرفعه على GitHub ونتأكد انه public ونبعت اللينك على ال gmail بتاع المينتور بتاعك اللي موجود ف ال Whatsapp group description 
+
+مدينا الديدلاين وهيكون يوم السبت الساعه 10م
+ربنا معاكم ❤️
